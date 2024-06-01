@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "37AD4215-214D-4516-9E1F-A519C1367FC4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "608DE930-02E4-4813-ABB5-0793631F567B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RealmAmirLesson/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "608DE930-02E4-4813-ABB5-0793631F567B - 99e2b33690dda0a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in RealmAmirLesson.ViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "RealmAmirLesson"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.atpv/Documents/Programming/IOS/RealmAmirLesson/RealmAmirLesson/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "340">
+               </Location>
+               <Location
+                  uuid = "608DE930-02E4-4813-ABB5-0793631F567B - 99e2b33690dda0a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in RealmAmirLesson.ViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "RealmAmirLesson"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.atpv/Documents/Programming/IOS/RealmAmirLesson/RealmAmirLesson/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51FDEC7F-1101-43FB-9E7C-3AF94C777FEF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RealmAmirLesson/TableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "likeTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81FAA66D-D964-4A97-B590-A9AFBC4F3C15"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RealmAmirLesson/RealmManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "updateCar(car:brand:color:type:isFavorite:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "81FAA66D-D964-4A97-B590-A9AFBC4F3C15 - 5533c0b59ace42c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealmAmirLesson.RealmManager.updateCar(car: RealmAmirLesson.CarModel, brand: Swift.Optional&lt;Swift.String&gt;, color: Swift.Optional&lt;Swift.String&gt;, type: Swift.Optional&lt;Swift.String&gt;, isFavorite: Swift.Optional&lt;Swift.Bool&gt;) -&gt; ()"
+                  moduleName = "RealmAmirLesson"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.atpv/Documents/Programming/IOS/RealmAmirLesson/RealmAmirLesson/RealmManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "81FAA66D-D964-4A97-B590-A9AFBC4F3C15 - 5aebff517a4970a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (RealmAmirLesson.CarModel) -&gt; Swift.Bool in RealmAmirLesson.RealmManager.updateCar(car: RealmAmirLesson.CarModel, brand: Swift.Optional&lt;Swift.String&gt;, color: Swift.Optional&lt;Swift.String&gt;, type: Swift.Optional&lt;Swift.String&gt;, isFavorite: Swift.Optional&lt;Swift.Bool&gt;) -&gt; ()"
+                  moduleName = "RealmAmirLesson"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.atpv/Documents/Programming/IOS/RealmAmirLesson/RealmAmirLesson/RealmManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "81FAA66D-D964-4A97-B590-A9AFBC4F3C15 - 5aebff517a4970a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (RealmAmirLesson.CarModel) -&gt; Swift.Bool in RealmAmirLesson.RealmManager.updateCar(car: RealmAmirLesson.CarModel, brand: Swift.Optional&lt;Swift.String&gt;, color: Swift.Optional&lt;Swift.String&gt;, type: Swift.Optional&lt;Swift.String&gt;, isFavorite: Swift.Optional&lt;Swift.Bool&gt;) -&gt; ()"
+                  moduleName = "RealmAmirLesson"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.atpv/Documents/Programming/IOS/RealmAmirLesson/RealmAmirLesson/RealmManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "81FAA66D-D964-4A97-B590-A9AFBC4F3C15 - 5aebff517a4970a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (RealmAmirLesson.CarModel) -&gt; Swift.Bool in RealmAmirLesson.RealmManager.updateCar(car: RealmAmirLesson.CarModel, brand: Swift.Optional&lt;Swift.String&gt;, color: Swift.Optional&lt;Swift.String&gt;, type: Swift.Optional&lt;Swift.String&gt;, isFavorite: Swift.Optional&lt;Swift.Bool&gt;) -&gt; ()"
+                  moduleName = "RealmAmirLesson"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.atpv/Documents/Programming/IOS/RealmAmirLesson/RealmAmirLesson/RealmManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "81FAA66D-D964-4A97-B590-A9AFBC4F3C15 - 5533c0b59ace42c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealmAmirLesson.RealmManager.updateCar(car: RealmAmirLesson.CarModel, brand: Swift.Optional&lt;Swift.String&gt;, color: Swift.Optional&lt;Swift.String&gt;, type: Swift.Optional&lt;Swift.String&gt;, isFavorite: Swift.Optional&lt;Swift.Bool&gt;) -&gt; ()"
+                  moduleName = "RealmAmirLesson"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.atpv/Documents/Programming/IOS/RealmAmirLesson/RealmAmirLesson/RealmManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "81FAA66D-D964-4A97-B590-A9AFBC4F3C15 - e16dd4008b86e8bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (RealmSwift.Query&lt;RealmAmirLesson.CarModel&gt;) -&gt; RealmSwift.Query&lt;Swift.Bool&gt; in RealmAmirLesson.RealmManager.updateCar(car: RealmAmirLesson.CarModel, brand: Swift.Optional&lt;Swift.String&gt;, color: Swift.Optional&lt;Swift.String&gt;, type: Swift.Optional&lt;Swift.String&gt;, isFavorite: Swift.Optional&lt;Swift.Bool&gt;) -&gt; ()"
+                  moduleName = "RealmAmirLesson"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a.atpv/Documents/Programming/IOS/RealmAmirLesson/RealmAmirLesson/RealmManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4953812A-7F72-49A4-9DBA-F66F98EC2D58"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RealmAmirLesson/RealmManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "updateCar(car:brand:color:type:isFavorite:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1F68817-5D55-402D-91A7-458E3F5147CF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RealmAmirLesson/TableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "configure(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
